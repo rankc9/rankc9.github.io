@@ -1,6 +1,6 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
+title: rankc
+subtitle: 一个刚开始学习的小白
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
 description: Vno Jekyll is a port of my Ghost theme vno.
 creator: <a href="http://onev.cat">@onevcat</a>
@@ -33,17 +33,19 @@ paginate_path: "page/:num/"
 # Comment
 comment:
     disqus: vno-jekyll
-    # duoshuo: 
-    
+    # duoshuo:
+
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
+    weibo: 13452286473
+    github: rankc9.github.io
+    twitter: xxxx
     gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: 747218387@qq.com
 
 # Google Analytics
 ga:
     # id: your_ga_id
     # host: your_host
+
+theme: jekyll-theme-cayman
