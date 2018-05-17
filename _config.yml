@@ -1,7 +1,7 @@
 # Basic
 title: rankc
 subtitle: 一个刚开始学习的小白
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
+welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">下载这个主题</a>
 description: 做自己想做的事.
 creator: <a href="http://onev.cat">@onevcat</a>
 
@@ -24,9 +24,6 @@ blog_button:
 nav:
     - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
-nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
-    # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 
 # Pagination
@@ -43,7 +40,6 @@ comment:
 social:
     weibo: 13452286473
     github: rankc9.github.io
-    twitter: xxxx
     gplus: 107108267983477358170
     mail: 747218387@qq.com
 
