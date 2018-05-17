@@ -1,11 +1,11 @@
 # Basic
 title: rankc
 subtitle: 一个刚开始学习的小白
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">下载这个主题</a>
+welcome_message: <a href="https://rankc.cc" target="_blank">欢迎来到rankc的个人博客</a>
 description: 做自己想做的事.
-creator: <a href="http://onev.cat">@onevcat</a>
+creator: <a href="http://rankc.cc">@rankc</a>
 
-url: "http://vno.onevcat.com"
+url: "http://rankc.cc"
 
 permalink: /:year/:month/:title/
 
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: purple
 
 # The blog button should not be removed.
 blog_button:
