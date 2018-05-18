@@ -1,7 +1,7 @@
 # Basic
 title: rankc
 subtitle: 一个刚开始学习的小白
-welcome_message: <a href="https://rankc.cc" target="_blank">欢迎来到rankc的个人博客</a>
+welcome_message: <a href="http://rankc.cc" target="_blank">欢迎来到rankc的个人博客</a>
 description: 做自己想做的事.
 creator: <a href="http://rankc.cc">@rankc</a>
 
@@ -42,7 +42,7 @@ comment:
 social:
     weibo: 13452286473
     github: rankc9
-    gplus: 107108267983477358170
+    gplus: 
     mail: 747218387@qq.com
 
 # Google Analytics
