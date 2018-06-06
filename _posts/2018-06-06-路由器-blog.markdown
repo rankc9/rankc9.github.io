@@ -11,8 +11,8 @@ date: 2017-06-07 18:32:24.000000000 +09:00
 > * 自己测试可以用，可以做到配置好之后，只需要电脑开创翼拨号，路由器就可以捕捉账号，并联网。
 > * 如果拨号失败，会自动关闭pppoe拨号。
 
-####如何刷openwrt固件在此便不再过多讲述
-##首先点击[这里](https://pan.baidu.com/s/1AtwP4QHvaLtOetL2T7KMog)下载所需要的文件
+#### 如何刷openwrt固件在此便不再过多讲述
+## 首先点击[这里](https://pan.baidu.com/s/1AtwP4QHvaLtOetL2T7KMog)下载所需要的文件
 
 -----
 
