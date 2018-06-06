@@ -4,7 +4,7 @@ title: 第一篇博客
 date: 2017-05-17 18:32:24.000000000 +09:00
 ---
 
-#### What's this
+#### 
 
 ### [rankc.cc](http://rankc.cc) 是由rankc在GitHub上创建的一个新的博客页面,主题搬运自[Vno Jekyll](https://github.com/onevcat/vno-jekyll).
 
