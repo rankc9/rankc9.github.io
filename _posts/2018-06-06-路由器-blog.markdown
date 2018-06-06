@@ -12,7 +12,7 @@ date: 2018-06-06 18:32:24.000000000 +09:00
 > * 如果拨号失败，会自动关闭pppoe拨号。
 
 #### 如何刷openwrt固件在此便不再过多讲述
-## 首先点击[这里](https://pan.baidu.com/s/1JO3vDMLgd8ifv3hF7p8quQ)下载所需要的文件
+## 首先点击[这里](https://pan.baidu.com/s/1JO3vDMLgd8ifv3hF7p8quQ)(密码：q5iz)下载所需要的文件
 ```
 链接：https://pan.baidu.com/s/1JO3vDMLgd8ifv3hF7p8quQ 密码：q5iz
 ```
@@ -64,7 +64,10 @@ sh nk4conf.sh
 
 ----------------------------------------------------------
 
-## 最后再给大家分享一个已经打包好的[固件](https://pan.baidu.com/s/1S1MrkGNKhJaAcDITGnEe1g)（密码：ycn8），刷好之后直接使用路由器，然后路由器就会截取真实账号进行拨号，而且里面有超多的插件可以使用。不过首先你的路由器是斐讯k2才能用哈。
+### 最后再给大家分享一个已经打包好的[固件](https://pan.baidu.com/s/1S1MrkGNKhJaAcDITGnEe1g)（密码：ycn8），刷好之后直接使用路由器，然后路由器就会截取真实账号进行拨号，而且里面有超多的插件可以使用。不过首先你的路由器是斐讯k2才能用哈。
+```
+连接：https://pan.baidu.com/s/1S1MrkGNKhJaAcDITGnEe1g  密码：ycn8
+```
 
 ----
 
